@@ -1,0 +1,47 @@
+Brand,Car,Trim,MSRP,36 months,48 months,60 months,City,Highway,Price/L,Category,Size,Fuel Type,Drivetrain,Adaptive Cruise,Lane-keep Assist,Apple Carplay/Android Auto,Heated Seats,Heated Steering Wheel,Cooled Seats
+Toyota,RAV4,LE FWD,"$28,850","$1,037.54",$800.04,$654.96,8.5,6.8,$1.40,Crossover,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,No,No
+Toyota,RAV4,LE AWD,"$30,950","$1,108.12",$854.47,$699.51,8.7,6.9,$1.40,Crossover,Compact,Gasoline,AWD,Yes,Yes,Yes,Yes,No,No
+Toyota,RAV4,LE AWD Hyrbid,"$33,190","$1,183.41",$912.52,$747.03,5.8,6.3,$1.40,Crossover,Compact,Hybrid,AWD,Yes,Yes,Yes,Yes,No,No
+Toyota,RAV4,XLE AWD ,"$34,550","$1,229.11",$947.76,$775.89,8.8,7.1,$1.40,Crossover,Compact,Gasoline,AWD ,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,XLE AWD Hybrid,"$36,190","$1,284.23",$990.27,$810.68,5.8,6.3,$1.40,Crossover,Compact,Hybrid,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,SE AWD Hybrid,"$37,990","$1,344.73","$1,036.91",$848.87,5.8,6.3,$1.40,Crossover,Compact,Hybrid,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,Trail AWD,"$38,350","$1,356.83","$1,046.24",$856.51,9.5,7.1,$1.40,Crossover,Compact,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,XSE AWD Hybrid,"$40,650","$1,434.13","$1,105.85",$905.31,5.8,6.3,$1.40,Crossover,Compact,Hybrid,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,XSE AWD Hybrid Tech Package,"$44,850","$1,575.29","$1,214.70",$994.41,5.8,6.3,$1.40,Crossover,Compact,Hybrid,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,Limited AWD,"$42,850","$1,508.07","$1,162.87",$951.98,9.5,7.1,$1.40,Crossover,Compact,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Toyota,RAV4,Limited AWD Hybrid,"$44,490","$1,563.19","$1,205.37",$986.77,5.8,6.3,$1.40,Crossover,Compact,Hybrid,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Toyota ,RAV4,PRIME SE,"$44,990","$1,431.28","$1,103.65",$903.51,5.7,6.0,$1.40,Crossover,Compact,PHEV,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota,RAV4,PRIME XSE,"$51,590","$1,653.10","$1,274.70","$1,043.53",5.7,6.0,$1.40,Crossover,Compact,PHEV,AWD,Yes,Yes,Yes,Yes,Yes,No
+Toyota ,RAV4,PRIME XSE Tech,"$56,990","$1,834.59","$1,414.64","$1,158.10",5.7,6.0,$1.40,Crossover,Compact,PHEV,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Honda,Civic,LX,"$24,465",$858.37,$658.45,$541.29,7.7,6.0,$1.40,Sedan,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,No,No
+Honda,Civic,EX,"$26,765",$993.37,$715.97,$588.55,7.7,6.0,$1.40,Sedan,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,Yes,No
+Honda,Civic,Sport,"$27,865",$969.24,$743.47,$611.16,7.8,6.3,$1.40,Sedan,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,Yes,No
+Honda,Civic,Touring,"$30,265","$1,047.50",$803.49,$660.48,7.6,6.1,$1.40,Sedan,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,Yes,No
+Honda,Civic,Si,"$33,150","$1,150.27",$884.41,$732.25,8.7,6.4,$1.40,Sedan,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,Yes,No
+Honda,Civic,Hatch - LX,"$28,000",$981.06,$754.33,$624.58,8,6.2,$1.40,Hatchback,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,No,No
+Honda,Civic,Hatch - Sport,"$31,500","$1,096.06",$842.73,$697.75,7.7,6.3,$1.40,Hatchback,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,Yes,No
+Honda,Civic,Hatch - Sport Touring,"$35,000","$1,211.06",$931.13,$770.93,7.7,6.3,$1.40,Hatchback,Compact,Gasoline,FWD,Yes,Yes,Yes,Yes,Yes,No
+Tesla,Model S,Standard,"$121,990","$3,579.00","$2,733.00","$2,225.00",1.7,2.2,$1.40,Sedan,Mid-sized,Electric,AWD,Yes,Yes,No,Yes,Yes,Yes
+Tesla,Model S,Plaid,"$169,990","$4,989.00","$3,809.00","$3,102.00",1.7,2.2,$1.40,Sedan,Mid-sized,Electric,AWD,Yes,Yes,No,Yes,Yes,Yes
+Mercedes-Benz,E-Class,Wagon All-Terrain,"$82,900","$2,458.25","$1,882.58","$1,537.60",11.0,8.3,$1.60,Wagon,Mid-sized,Gasoline,AWD,No,No,Yes,Yes,No,No
+Mercedes-Benz,E-Class,Wagon All-Terrain + Intelligent Drive Package,"$89,200","$2,645.06","$2,025.65","$1,654.45",11.0,8.3,$1.60,Wagon,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,No,No
+Mercedes-Benz,E-Class,Wagon All-Terrain + Intelligent Drive Package + Comfort Package + Premium Package,"$93,300","$2,766.64","$2,118.76","$1,730.50",11.0,8.3,$1.60,Wagon,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Mercedes-Benz,E-Class,E350 4Matic,"$66,700","$1,977.87","$1,514.69","$1,237.13",11.2,8.2,$1.60,Sedan,Mid-sized,Gasoline,AWD,No,No,Yes,Yes,No,No
+Mercedes-Benz,E-Class,E350 4Matic + Intelligent Drive Package,"$72,600","$2,152.82","$1,648.68","$1,346.56",11.2,8.2,$1.60,Sedan,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,No,No
+Mercedes-Benz,E-Class,E350 4Matic + Intelligent Drive Package + Comfort Package + Premium Package,"$79,890","$2,368.99","$1,814.23","$1,481.77",11.2,8.2,$1.60,Sedan,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,No,Yes
+Mercedes-Benz,E-Class,E450 4Matic,"$76,800","$2,277.36","$1,744.06","$1,424.46",10.5,7.9,$1.60,Sedan,Mid-sized,Gasoline,AWD,No,No,Yes,Yes,No,No
+Hyundai,IONIQ 5,Essential,"$44,999","$1,407.88","$1,074.09",$873.98,1.9,2.5,$1.40,Crossover,Mid-sized,Electric,RWD,Yes,Yes,Yes,Yes,Yes,No
+Hyundai,IONIQ 5,Preferred,"$46,999","$1,474.09","$1,124.60",$915.08,1.9,2.5,$1.40,Crossover,Mid-sized,Electric,RWD,Yes,Yes,Yes,Yes,Yes,No
+Hyundai,IONIQ 5,Preferred Long Range,"$51,999","$1,639.62","$1,250.89","$1,017.84",1.9,2.5,$1.40,Crossover,Mid-sized,Electric,RWD,Yes,Yes,Yes,Yes,Yes,No
+Hyundai,IONIQ 5,Preferred AWD Long Range,"$54,999","$1,738.94","$1,326.66","$1,079.49",1.9,2.5,$1.40,Crossover,Mid-sized,Electric,AWD,Yes,Yes,Yes,Yes,Yes,No
+Hyundai,IONIQ 5,Preferred AWD Long Range Premium Package,"$59,999","$1,911.09","$1,458.00","$1,186.36",1.9,2.5,$1.40,Crossover,Mid-sized,Electric,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,SANTA FE,Essential,"$33,699","$1,181.36",$899.11,$729.87,10.6,9.3,$1.40,Crossover,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,SANTA FE,Preferred,"$36,699","$1,279.93",$974.13,$790.76,10.6,9.3,$1.40,Crossover,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,SANTA FE,Urban,"$40,499","$1,398.21","$1,064.16",$863.84,11,8.5,$1.40,Crossover,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,SANTA FE,Luxury Hybrid,"$44,099","$1,516.50","$1,154.18",$936.92,7.1,7.9,$1.40,Crossover,Mid-sized,Hybrid,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,SANTA FE,Luxury Hybrid + PHEV,"$48,699","$1,594.94","$1,213.89",$985.39,3.1,3.1,$1.40,Crossover,Mid-sized,PHEV,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,SANTA FE,Ultimate Calligraphy,"$47,799","$1,638.07","$1,246.71","$1,012.03",11,8.5,$1.40,Crossover,Mid-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,PALISADE,Essential,"$41,499","$1,431.07","$1,089.16",$884.14,12.3,9.6,$1.40,SUV,Full-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,No
+Hyundai,PALISADE,Preferred,"$46,499","$1,595","$1,214",$986,12.3,9.6,$1.40,SUV,Full-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,No
+Hyundai,PALISADE,Luxury,"$50,699","$1,740","$1,324","$1,075",12.3,9.6,$1.40,SUV,Full-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
+Hyundai,PALISADE,Ultimate Calligraphy,"$54,999","$1,875","$1,427","$1,158",12.3,9.6,$1.40,SUV,Full-sized,Gasoline,AWD,Yes,Yes,Yes,Yes,Yes,Yes
