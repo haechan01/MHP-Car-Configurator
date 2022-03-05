@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load bootstrap4 %}
+
+{% block content %}
+<h3>Join Today!</h3>
+<hr>
+<form method="post" action="">
+    {% csrf_token %}
+{% bootstrap_form form %}
+
+<input type="submit" value="Save" />
+</form>
+
+{% endblock %}
